@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\context\\configurations\\delivrypersonconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\context\\configurations\\delivrypersonconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\context\\configurations\\orderdetailconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\context\\configurations\\orderdetailconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.data\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|solutionrelative:swiftsend.data\\entities\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\context\\configurations\\mealconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\context\\configurations\\mealconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\context\\configurations\\orderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\context\\configurations\\orderconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\context\\configurations\\customerconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\context\\configurations\\customerconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\context\\configurations\\appuserconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\context\\configurations\\appuserconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.data\\entities\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|solutionrelative:swiftsend.data\\entities\\meal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\context\\configurations\\restaurantconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\context\\configurations\\restaurantconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|solutionrelative:swiftsend.data\\entities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.data\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|solutionrelative:swiftsend.data\\entities\\restaurant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|solutionrelative:swiftsend.data\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.data\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|solutionrelative:swiftsend.data\\entities\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.data\\entities\\sharedmodels\\abstradctmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|solutionrelative:swiftsend.data\\entities\\sharedmodels\\abstradctmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.data\\entities\\enums\\orderdetailstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88D038F0-A5EE-4345-AA09-C048480F797A}|SwiftSend.data\\SwiftSend.data.csproj|solutionrelative:swiftsend.data\\entities\\enums\\orderdetailstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.app\\swiftsend.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|solutionrelative:swiftsend.app\\swiftsend.app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DelivryPersonConfigurations.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\DelivryPersonConfigurations.cs",
+              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Context\\Configurations\\DelivryPersonConfigurations.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\DelivryPersonConfigurations.cs",
+              "RelativeToolTip": "SwiftSend.infrastructure\\Context\\Configurations\\DelivryPersonConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:56:40.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailConfigurations.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\OrderDetailConfigurations.cs",
+              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Context\\Configurations\\OrderDetailConfigurations.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\OrderDetailConfigurations.cs",
+              "RelativeToolTip": "SwiftSend.infrastructure\\Context\\Configurations\\OrderDetailConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:48:50.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderConfigurations.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\OrderConfigurations.cs",
+              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Context\\Configurations\\OrderConfigurations.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\OrderConfigurations.cs",
+              "RelativeToolTip": "SwiftSend.infrastructure\\Context\\Configurations\\OrderConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:31:33.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AppUserConfigurations.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\AppUserConfigurations.cs",
+              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Context\\Configurations\\AppUserConfigurations.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\AppUserConfigurations.cs",
+              "RelativeToolTip": "SwiftSend.infrastructure\\Context\\Configurations\\AppUserConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:22:04.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerConfigurations.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\CustomerConfigurations.cs",
+              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Context\\Configurations\\CustomerConfigurations.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\CustomerConfigurations.cs",
+              "RelativeToolTip": "SwiftSend.infrastructure\\Context\\Configurations\\CustomerConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:15:34.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MealConfigurations.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\MealConfigurations.cs",
+              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Context\\Configurations\\MealConfigurations.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\MealConfigurations.cs",
+              "RelativeToolTip": "SwiftSend.infrastructure\\Context\\Configurations\\MealConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAgAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:26:53.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SwiftSend.data\\Entities\\OrderDetail.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\OrderDetail.cs",
+              "RelativeToolTip": "SwiftSend.data\\Entities\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:47:30.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Meal.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Meal.cs",
+              "RelativeDocumentMoniker": "SwiftSend.data\\Entities\\Meal.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Meal.cs",
+              "RelativeToolTip": "SwiftSend.data\\Entities\\Meal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:53:22.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Order.cs",
+              "RelativeDocumentMoniker": "SwiftSend.data\\Entities\\Order.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Order.cs",
+              "RelativeToolTip": "SwiftSend.data\\Entities\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:17:56.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RestaurantConfigurations.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\RestaurantConfigurations.cs",
+              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Context\\Configurations\\RestaurantConfigurations.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\Configurations\\RestaurantConfigurations.cs",
+              "RelativeToolTip": "SwiftSend.infrastructure\\Context\\Configurations\\RestaurantConfigurations.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:24:42.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Restaurant.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Restaurant.cs",
+              "RelativeDocumentMoniker": "SwiftSend.data\\Entities\\Restaurant.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Restaurant.cs",
+              "RelativeToolTip": "SwiftSend.data\\Entities\\Restaurant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T10:27:51.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "SwiftSend.data\\Entities\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Identity\\AppUser.cs",
+              "RelativeToolTip": "SwiftSend.data\\Entities\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:56:27.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderDetailStatus.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Enums\\OrderDetailStatus.cs",
+              "RelativeDocumentMoniker": "SwiftSend.data\\Entities\\Enums\\OrderDetailStatus.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Enums\\OrderDetailStatus.cs",
+              "RelativeToolTip": "SwiftSend.data\\Entities\\Enums\\OrderDetailStatus.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:52:53.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AbstradctModel.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\SharedModels\\AbstradctModel.cs",
+              "RelativeDocumentMoniker": "SwiftSend.data\\Entities\\SharedModels\\AbstradctModel.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\SharedModels\\AbstradctModel.cs",
+              "RelativeToolTip": "SwiftSend.data\\Entities\\SharedModels\\AbstradctModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:24:25.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "SwiftSend.data\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.data\\Entities\\Customer.cs",
+              "RelativeToolTip": "SwiftSend.data\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:23:34.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "SwiftSend.infrastructure\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:21:47.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SwiftSend.app.csproj",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\SwiftSend.app.csproj",
+              "RelativeDocumentMoniker": "SwiftSend.app\\SwiftSend.app.csproj",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\SwiftSend.app.csproj",
+              "RelativeToolTip": "SwiftSend.app\\SwiftSend.app.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-06T09:16:11.612Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
