@@ -1,8 +1,8 @@
-﻿using Microsoft.AspNetCore.Identity;
+﻿using AspNetCore.Identity.Mongo.Model;
 
 namespace SwiftSend.data.Entities.Identity
 {
-    public class AppUser : IdentityUser<int>
+    public class AppUser : MongoUser
     {
         public string FirstName { get; set; }
         public string LastName { get; set; }

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bgBeFVPsHcXL8tDBONay0FCmacmepJifMR6IUjLhCVY=",
+  "Source": "SwiftSend.api",
+  "BasePath": "_content/SwiftSend.api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

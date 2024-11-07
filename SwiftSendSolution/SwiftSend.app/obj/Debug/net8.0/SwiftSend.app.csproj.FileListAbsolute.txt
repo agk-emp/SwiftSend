@@ -1,0 +1,16 @@
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\bin\Debug\net8.0\SwiftSend.app.deps.json
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\bin\Debug\net8.0\SwiftSend.app.dll
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\bin\Debug\net8.0\SwiftSend.app.pdb
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\bin\Debug\net8.0\SwiftSend.data.dll
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\bin\Debug\net8.0\SwiftSend.data.pdb
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSend.app.csproj.AssemblyReference.cache
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSend.app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSend.app.AssemblyInfoInputs.cache
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSend.app.AssemblyInfo.cs
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSend.app.csproj.CoreCompileInputs.cache
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSend.app.sourcelink.json
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSen.459BD6E8.Up2Date
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSend.app.dll
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\refint\SwiftSend.app.dll
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\SwiftSend.app.pdb
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.app\obj\Debug\net8.0\ref\SwiftSend.app.dll

@@ -1,0 +1,13 @@
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\bin\Debug\net8.0\SwiftSend.data.deps.json
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\bin\Debug\net8.0\SwiftSend.data.dll
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\bin\Debug\net8.0\SwiftSend.data.pdb
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\SwiftSend.data.csproj.AssemblyReference.cache
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\SwiftSend.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\SwiftSend.data.AssemblyInfoInputs.cache
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\SwiftSend.data.AssemblyInfo.cs
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\SwiftSend.data.csproj.CoreCompileInputs.cache
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\SwiftSend.data.sourcelink.json
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\SwiftSend.data.dll
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\refint\SwiftSend.data.dll
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\SwiftSend.data.pdb
+C:\Ghani\CVProjects\SwiftSend\SwiftSendSolution\SwiftSend.data\obj\Debug\net8.0\ref\SwiftSend.data.dll

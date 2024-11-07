@@ -1,11 +1,16 @@
-﻿using SwiftSend.data.Entities.SharedModels;
+﻿using MongoDB.Bson.Serialization.Attributes;
+using SwiftSend.data.Entities.SharedModels;
 
 namespace SwiftSend.data.Entities
 {
     public class Restaurant : AbstradctModel
     {
+        [BsonElement("name")]
         public string Name { get; set; }
+        [BsonElement("location")]
         public string Location { get; set; }
+
+        [BsonElement("meals")]
         public List<Meal> Meals { get; set; }
 
         public Restaurant()
