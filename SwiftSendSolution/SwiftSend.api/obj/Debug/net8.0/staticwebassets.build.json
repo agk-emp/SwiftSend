@@ -1,11 +1,12 @@
 {
   "Version": 1,
-  "Hash": "bgBeFVPsHcXL8tDBONay0FCmacmepJifMR6IUjLhCVY=",
+  "Hash": "21OvTYdXXqH80gibYEEbXI/QiYM6IFhuTgRuls40CDE=",
   "Source": "SwiftSend.api",
   "BasePath": "_content/SwiftSend.api",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": []
+  "Assets": [],
+  "Endpoints": []
 }
