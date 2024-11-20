@@ -1,5 +1,52 @@
 [
   {
+    "ContainingType": "SwiftSend.api.Controllers.RestaurantController",
+    "Method": "CreateRestaurant",
+    "RelativePath": "api/Restaurant/CreateRestaurant",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "SwiftSend.app.Dtos.RestaurantDtos.Inputs.CreateRestaurantDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SwiftSend.api.Controllers.RestaurantController",
+    "Method": "GetAllRestaurants",
+    "RelativePath": "api/Restaurant/GetAllRestaurants",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PageNumber",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "PageSize",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SwiftSend.app.Common.PagedResult\u00601[[SwiftSend.app.Dtos.RestaurantDtos.Outputs.GetAllRestaurantsResultDto, SwiftSend.app, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "SwiftSend.api.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "api/User/Login",

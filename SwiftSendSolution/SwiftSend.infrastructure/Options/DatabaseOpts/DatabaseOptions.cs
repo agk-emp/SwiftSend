@@ -6,5 +6,6 @@
         public string DatabaseName { get; set; }
         public string AppUsers { get; set; }
         public string UserRefreshTokens { get; set; }
+        public string Restaurants { get; set; }
     }
 }

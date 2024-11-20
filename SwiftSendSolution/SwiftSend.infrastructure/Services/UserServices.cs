@@ -281,7 +281,7 @@ namespace SwiftSend.infrastructure.Services
 
         private async Task RevokeAlreadyExistingTokensForUser(string userId)
         {
-            var tokenToBeRevoked = await _userRefreshTokenRepository.GetAllUserRefreshTokens(userId);
+            var tokenToBeRevoked = await _userRefreshTokenRepository.GetAllUserUnRevokedRefreshTokens(userId);
             foreach (var token in tokenToBeRevoked)
             {
                 token.IsRevoked = true;

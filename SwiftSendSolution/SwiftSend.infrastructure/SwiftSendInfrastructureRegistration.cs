@@ -77,6 +77,8 @@ namespace SwiftSend.infrastructure
         {
             services.AddTransient<IUserRefreshTokenRepository, UserRefreshTokenRepository>();
             services.AddTransient<IUserServices, UserServices>();
+            services.AddTransient<IRestaurantRepository, RestaurantRepository>();
+            services.AddTransient<IRestaurantServices, RestaurantServices>();
         }
 
         private static void ConfigureJwt(IServiceCollection services,

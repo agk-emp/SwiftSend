@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\services\\userservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.app\\dtos\\restaurantdtos\\outputs\\getrestaurantbyidresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|solutionrelative:swiftsend.app\\dtos\\restaurantdtos\\outputs\\getrestaurantbyidresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.app\\dtos\\userdtos\\inputs\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|solutionrelative:swiftsend.app\\dtos\\userdtos\\inputs\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.app\\dtos\\restaurantdtos\\outputs\\getallrestaurantsresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|solutionrelative:swiftsend.app\\dtos\\restaurantdtos\\outputs\\getallrestaurantsresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.app\\dtos\\userdtos\\inputs\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|solutionrelative:swiftsend.app\\dtos\\userdtos\\inputs\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.app\\dtos\\restaurantdtos\\inputs\\getrestaurantbyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|solutionrelative:swiftsend.app\\dtos\\restaurantdtos\\inputs\\getrestaurantbyidrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.app\\dtos\\userdtos\\inputs\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F59DBAD-7404-452D-8F75-FB028AB17007}|SwiftSend.app\\SwiftSend.app.csproj|solutionrelative:swiftsend.app\\dtos\\userdtos\\inputs\\refreshtokenrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.infrastructure\\swiftsendinfrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{991590A2-7D1A-4B75-9C1C-1ED11B04D3AC}|SwiftSend.infrastructure\\SwiftSend.infrastructure.csproj|solutionrelative:swiftsend.infrastructure\\swiftsendinfrastructureregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EA59AAC7-7CA6-45DE-A389-264E640045FF}|SwiftSend.api\\SwiftSend.api.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EA59AAC7-7CA6-45DE-A389-264E640045FF}|SwiftSend.api\\SwiftSend.api.csproj|solutionrelative:swiftsend.api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EA59AAC7-7CA6-45DE-A389-264E640045FF}|SwiftSend.api\\SwiftSend.api.csproj|c:\\ghani\\cvprojects\\swiftsend\\swiftsendsolution\\swiftsend.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA59AAC7-7CA6-45DE-A389-264E640045FF}|SwiftSend.api\\SwiftSend.api.csproj|solutionrelative:swiftsend.api\\controllers\\restaurantcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,80 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterDto.cs",
-              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\UserDtos\\Inputs\\RegisterDto.cs",
-              "RelativeDocumentMoniker": "SwiftSend.app\\Dtos\\UserDtos\\Inputs\\RegisterDto.cs",
-              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\UserDtos\\Inputs\\RegisterDto.cs",
-              "RelativeToolTip": "SwiftSend.app\\Dtos\\UserDtos\\Inputs\\RegisterDto.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
+              "Title": "GetAllRestaurantsResultDto.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\RestaurantDtos\\Outputs\\GetAllRestaurantsResultDto.cs",
+              "RelativeDocumentMoniker": "SwiftSend.app\\Dtos\\RestaurantDtos\\Outputs\\GetAllRestaurantsResultDto.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\RestaurantDtos\\Outputs\\GetAllRestaurantsResultDto.cs",
+              "RelativeToolTip": "SwiftSend.app\\Dtos\\RestaurantDtos\\Outputs\\GetAllRestaurantsResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:34:55.925Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "RefreshTokenRequestDto.cs",
-              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\UserDtos\\Inputs\\RefreshTokenRequestDto.cs",
-              "RelativeDocumentMoniker": "SwiftSend.app\\Dtos\\UserDtos\\Inputs\\RefreshTokenRequestDto.cs",
-              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\UserDtos\\Inputs\\RefreshTokenRequestDto.cs",
-              "RelativeToolTip": "SwiftSend.app\\Dtos\\UserDtos\\Inputs\\RefreshTokenRequestDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:34:46.661Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "LoginDto.cs",
-              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\UserDtos\\Inputs\\LoginDto.cs",
-              "RelativeDocumentMoniker": "SwiftSend.app\\Dtos\\UserDtos\\Inputs\\LoginDto.cs",
-              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\UserDtos\\Inputs\\LoginDto.cs",
-              "RelativeToolTip": "SwiftSend.app\\Dtos\\UserDtos\\Inputs\\LoginDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:34:34.74Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "SwiftSendInfrastructureRegistration.cs",
-              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\SwiftSendInfrastructureRegistration.cs",
-              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\SwiftSendInfrastructureRegistration.cs",
-              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\SwiftSendInfrastructureRegistration.cs",
-              "RelativeToolTip": "SwiftSend.infrastructure\\SwiftSendInfrastructureRegistration.cs",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAQwF4AAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:24:27.7Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.api\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "SwiftSend.api\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.api\\Controllers\\UserController.cs",
-              "RelativeToolTip": "SwiftSend.api\\Controllers\\UserController.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:11:26.713Z",
+              "WhenOpened": "2024-11-20T14:03:38.201Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UserServices.cs",
-              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Services\\UserServices.cs",
-              "RelativeDocumentMoniker": "SwiftSend.infrastructure\\Services\\UserServices.cs",
-              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.infrastructure\\Services\\UserServices.cs",
-              "RelativeToolTip": "SwiftSend.infrastructure\\Services\\UserServices.cs",
-              "ViewState": "AgIAALYAAAAAAAAAAAApwMYAAAAIAAAAAAAAAA==",
+              "Title": "GetRestaurantByIdResultDto.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\RestaurantDtos\\Outputs\\GetRestaurantByIdResultDto.cs",
+              "RelativeDocumentMoniker": "SwiftSend.app\\Dtos\\RestaurantDtos\\Outputs\\GetRestaurantByIdResultDto.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\RestaurantDtos\\Outputs\\GetRestaurantByIdResultDto.cs",
+              "RelativeToolTip": "SwiftSend.app\\Dtos\\RestaurantDtos\\Outputs\\GetRestaurantByIdResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-16T08:02:40.92Z",
+              "WhenOpened": "2024-11-20T14:03:24.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetRestaurantByIdRequestDto.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\RestaurantDtos\\Inputs\\GetRestaurantByIdRequestDto.cs",
+              "RelativeDocumentMoniker": "SwiftSend.app\\Dtos\\RestaurantDtos\\Inputs\\GetRestaurantByIdRequestDto.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.app\\Dtos\\RestaurantDtos\\Inputs\\GetRestaurantByIdRequestDto.cs",
+              "RelativeToolTip": "SwiftSend.app\\Dtos\\RestaurantDtos\\Inputs\\GetRestaurantByIdRequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T14:02:33.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RestaurantController.cs",
+              "DocumentMoniker": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.api\\Controllers\\RestaurantController.cs",
+              "RelativeDocumentMoniker": "SwiftSend.api\\Controllers\\RestaurantController.cs",
+              "ToolTip": "C:\\Ghani\\CVProjects\\SwiftSend\\SwiftSendSolution\\SwiftSend.api\\Controllers\\RestaurantController.cs",
+              "RelativeToolTip": "SwiftSend.api\\Controllers\\RestaurantController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T13:28:44.783Z",
               "EditorCaption": ""
             }
           ]

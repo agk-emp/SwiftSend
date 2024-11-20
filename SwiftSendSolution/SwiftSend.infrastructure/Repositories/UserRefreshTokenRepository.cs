@@ -14,19 +14,19 @@ namespace SwiftSend.infrastructure.Repositories
         }
         public async Task Add(UserRefreshToken userRefreshToken)
         {
-            await _context.UserRefreshToken.InsertOneAsync(userRefreshToken);
+            await _context.UserRefreshTokens.InsertOneAsync(userRefreshToken);
         }
 
-        public async Task<List<UserRefreshToken>> GetAllUserRefreshTokens(string userId)
+        public async Task<List<UserRefreshToken>> GetAllUserUnRevokedRefreshTokens(string userId)
         {
-            var result = await _context.UserRefreshToken.Find(userRefreshTokens =>
-            userRefreshTokens.UserId == userId).ToListAsync();
+            var result = await _context.UserRefreshTokens.Find(userRefreshTokens =>
+            userRefreshTokens.UserId == userId && userRefreshTokens.IsRevoked == false).ToListAsync();
             return result;
         }
 
         public async Task<UserRefreshToken> GetByAccessTokenAndRefreshToken(string accessToken, string refreshToken)
         {
-            var result = await _context.UserRefreshToken.Find(userRefreshTokens =>
+            var result = await _context.UserRefreshTokens.Find(userRefreshTokens =>
             userRefreshTokens.RefreshToken == refreshToken && userRefreshTokens.JWTToken == accessToken)
                 .FirstOrDefaultAsync();
             return result;
@@ -35,7 +35,7 @@ namespace SwiftSend.infrastructure.Repositories
         public async Task Update(string id, UserRefreshToken userRefreshToken)
         {
             var filter = Builders<UserRefreshToken>.Filter.Eq(refTok => refTok.Id, id);
-            await _context.UserRefreshToken.ReplaceOneAsync(filter, userRefreshToken);
+            await _context.UserRefreshTokens.ReplaceOneAsync(filter, userRefreshToken);
         }
     }
 }

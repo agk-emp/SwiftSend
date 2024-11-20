@@ -1,11 +1,24 @@
-﻿namespace SwiftSend.data.Entities.SharedModels
+﻿using MongoDB.Bson;
+using MongoDB.Bson.Serialization.Attributes;
+
+namespace SwiftSend.data.Entities.SharedModels
 {
     public abstract class AbstradctModel
     {
-        public int Id { get; set; }
-        public DateTime CreatedAt { get; set; }
-        public DateTime UpdatedAt { get; set; }
-        public int CreatedBy { get; set; }
-        public int UpdatedBy { get; set; }
+        [BsonId]
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string Id { get; set; } = ObjectId.GenerateNewId().ToString();
+
+        [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
+        public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
+
+        [BsonDateTimeOptions(Kind = DateTimeKind.Utc)]
+        public DateTime? UpdatedAt { get; set; }
+
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string? CreatedBy { get; set; }
+
+        [BsonRepresentation(BsonType.ObjectId)]
+        public string? UpdatedBy { get; set; }
     }
 }

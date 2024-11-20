@@ -7,6 +7,6 @@ namespace SwiftSend.app.Abstracts.Repositories
         Task Update(string id, UserRefreshToken userRefreshToken);
         Task Add(UserRefreshToken userRefreshToken);
         Task<UserRefreshToken> GetByAccessTokenAndRefreshToken(string accessToken, string refreshToken);
-        Task<List<UserRefreshToken>> GetAllUserRefreshTokens(string userId);
+        Task<List<UserRefreshToken>> GetAllUserUnRevokedRefreshTokens(string userId);
     }
 }

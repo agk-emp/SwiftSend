@@ -13,6 +13,11 @@ namespace SwiftSend.data.Entities
         [BsonElement("meals")]
         public List<Meal> Meals { get; set; }
 
+
+
+        [BsonElement("schedule")]
+        public Schedule Schedule { get; set; }
+
         public Restaurant()
         {
             Meals = new();
