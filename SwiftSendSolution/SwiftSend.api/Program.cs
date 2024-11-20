@@ -16,8 +16,7 @@ namespace SwiftSend.api
             builder.Services.AddSwaggerGen();
 
 
-            builder.Services.RegisterInfrasturcture(builder.Configuration, "DbContext",
-                "SwiftSendDb");
+            builder.Services.RegisterInfrasturcture(builder.Configuration);
 
             var app = builder.Build();
 
