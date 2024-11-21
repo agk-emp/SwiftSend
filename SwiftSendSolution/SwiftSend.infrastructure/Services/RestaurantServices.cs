@@ -65,5 +65,43 @@ namespace SwiftSend.infrastructure.Services
             }
             return new PagedResult<GetAllRestaurantsResultDto>();
         }
+
+        public async Task<GetRestaurantByIdResultDto> GetRestaurantById(GetRestaurantByIdRequestDto requestDto)
+        {
+            var restaurant = await _restaurantRepository.GetById(requestDto.Id);
+            var result = new GetRestaurantByIdResultDto()
+            {
+                Name = restaurant.Name,
+                Location = restaurant.Location,
+                Schedule = new ScheduleDto()
+                {
+                    Sunday = restaurant.Schedule.Sunday,
+                    Monday = restaurant.Schedule.Monday,
+                    Tuesday = restaurant.Schedule.Tuesday,
+                    Wednesday = restaurant.Schedule.Wednesday,
+                    Thursday = restaurant.Schedule.Thursday,
+                    Friday = restaurant.Schedule.Friday,
+                    Saturday = restaurant.Schedule.Saturday,
+                    StartTime = restaurant.Schedule.StartTime,
+                    EndTime = restaurant.Schedule.EndTime,
+                }
+            };
+            return result;
+        }
+
+        public async Task DeleteRestaurant(DeleteRestaurantDto requestDto)
+        {
+            await _restaurantRepository.RemoveRestaurant(requestDto.Id);
+        }
+
+        public async Task UpdateRestaurant(UpdateRestaurantDto requestDto)
+        {
+            var restaurant = new Restaurant()
+            {
+                Name = requestDto.RestaurantUpdatingBody.Name,
+                Location = requestDto.RestaurantUpdatingBody.Location,
+            };
+            await _restaurantRepository.Update(requestDto.Id, restaurant);
+        }
     }
 }

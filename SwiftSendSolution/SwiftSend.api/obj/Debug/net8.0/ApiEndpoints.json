@@ -17,6 +17,22 @@
   },
   {
     "ContainingType": "SwiftSend.api.Controllers.RestaurantController",
+    "Method": "DeleteRestaurant",
+    "RelativePath": "api/Restaurant/DeleteRestaurant/{Id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SwiftSend.api.Controllers.RestaurantController",
     "Method": "GetAllRestaurants",
     "RelativePath": "api/Restaurant/GetAllRestaurants",
     "HttpMethod": "GET",
@@ -45,6 +61,53 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "SwiftSend.api.Controllers.RestaurantController",
+    "Method": "GetRestaurant",
+    "RelativePath": "api/Restaurant/GetRestaurant",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "SwiftSend.app.Dtos.RestaurantDtos.Outputs.GetRestaurantByIdResultDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "SwiftSend.api.Controllers.RestaurantController",
+    "Method": "UpdateRestaurant",
+    "RelativePath": "api/Restaurant/UpdateRestaurant/{Id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "RestaurantUpdatingBody",
+        "Type": "SwiftSend.app.Dtos.RestaurantDtos.Inputs.UpdateRestaurantDto\u002BUpdateRestaurantBodyDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "SwiftSend.api.Controllers.UserController",

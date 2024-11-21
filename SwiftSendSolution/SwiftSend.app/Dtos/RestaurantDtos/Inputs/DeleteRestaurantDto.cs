@@ -1,6 +1,6 @@
 ﻿namespace SwiftSend.app.Dtos.RestaurantDtos.Inputs
 {
-    public class GetRestaurantByIdRequestDto
+    public class DeleteRestaurantDto
     {
         public string Id { get; set; }
     }

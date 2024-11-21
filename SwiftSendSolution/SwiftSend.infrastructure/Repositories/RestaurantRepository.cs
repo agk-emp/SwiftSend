@@ -44,7 +44,10 @@ namespace SwiftSend.infrastructure.Repositories
         public async Task Update(string id, Restaurant restaurant)
         {
             var restaurantToUpdate = await GetById(id);
-            await _appDbContext.Restaurants.ReplaceOneAsync(GetByIdFilter(id), restaurant);
+            var updateFilter = Builders<Restaurant>.Update.
+                Set(res => res.Name, restaurantToUpdate.Name).
+                Set(res => res.Location, restaurant.Location);
+            await _appDbContext.Restaurants.UpdateOneAsync(GetByIdFilter(id), updateFilter);
         }
 
         #region private methods

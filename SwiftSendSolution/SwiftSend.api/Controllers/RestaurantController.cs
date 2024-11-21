@@ -32,7 +32,25 @@ namespace SwiftSend.api.Controllers
             return Ok(result);
         }
 
-        [HttpGet]
-        public async Task<ActionResult<>>
+        [HttpGet(nameof(GetRestaurant))]
+        public async Task<ActionResult<GetRestaurantByIdResultDto>>
+            GetRestaurant([FromQuery] GetRestaurantByIdRequestDto requestDto)
+        {
+            return Ok(await _restaurantServices.GetRestaurantById(requestDto));
+        }
+
+        [HttpDelete("DeleteRestaurant/{Id}")]
+        public async Task<IActionResult> DeleteRestaurant([FromRoute] DeleteRestaurantDto requestDto)
+        {
+            await _restaurantServices.DeleteRestaurant(requestDto);
+            return Ok();
+        }
+
+        [HttpPut("UpdateRestaurant/{Id}")]
+        public async Task<IActionResult> UpdateRestaurant(UpdateRestaurantDto requestDto)
+        {
+            await _restaurantServices.UpdateRestaurant(requestDto);
+            return Ok();
+        }
     }
 }

@@ -8,5 +8,8 @@ namespace SwiftSend.app.Abstracts.Repositories
     {
         Task CreateRestaurant(CreateRestaurantDto requestDto);
         Task<PagedResult<GetAllRestaurantsResultDto>> GetAllRestaurantsPaged(GetAllRestaurantsRequestDto requestDto);
+        Task<GetRestaurantByIdResultDto> GetRestaurantById(GetRestaurantByIdRequestDto requestDto);
+        Task DeleteRestaurant(DeleteRestaurantDto requestDto);
+        Task UpdateRestaurant(UpdateRestaurantDto requestDto);
     }
 }
