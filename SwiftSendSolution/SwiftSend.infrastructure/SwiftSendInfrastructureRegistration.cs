@@ -27,6 +27,7 @@ namespace SwiftSend.infrastructure
         {
             services.ConfigureOptions<JwtOptionsSetup>();
             services.ConfigureOptions<DatabaseOptionsSetup>();
+            services.AddHttpClient();
             var provider = services.BuildServiceProvider();
             var jwtOptions = provider.GetRequiredService<IOptions<JwtOptions>>().Value;
             var databaseOptions = provider.GetRequiredService<IOptions<DatabaseOptions>>().Value;
@@ -79,6 +80,7 @@ namespace SwiftSend.infrastructure
             services.AddTransient<IUserServices, UserServices>();
             services.AddTransient<IRestaurantRepository, RestaurantRepository>();
             services.AddTransient<IRestaurantServices, RestaurantServices>();
+            services.AddTransient<IExternalServices, ExternalServices>();
         }
 
         private static void ConfigureJwt(IServiceCollection services,

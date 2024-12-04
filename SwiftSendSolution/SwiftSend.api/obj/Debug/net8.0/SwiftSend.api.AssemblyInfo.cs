@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwiftSend.api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fd20fb2ed776d17073d0fc64431dabedf2eebb7f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+649a12f14b7c495eadb3765f0984f5b5d1d7683e")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwiftSend.api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwiftSend.api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -110,6 +110,27 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SwiftSend.api.Controllers.SchoolProjectController",
+    "Method": "CreateStudent",
+    "RelativePath": "api/SchoolProject/CreateStudent",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "uri",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "request",
+        "Type": "SwiftSend.api.Controllers.studentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SwiftSend.api.Controllers.UserController",
     "Method": "Login",
     "RelativePath": "api/User/Login",
